@@ -6,9 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "EfficientBoard")
-		(date "2026-05-04")
+		(date "2026-05-19")
 		(rev "v1.0")
 		(company "Carnegie Mellon University")
+		(comment 1 "N. Khera")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"

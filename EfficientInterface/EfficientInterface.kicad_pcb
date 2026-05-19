@@ -11854,7 +11854,7 @@
 			)
 		)
 	)
-	(gr_text "Efficient E1x Stamp Interface\nCarnegie Mellon University\nv1.0"
+	(gr_text "Efficient E1x Stamp Interface\nCarnegie Mellon University\nMade by Neil Khera\nv1.0"
 		(at 155.575 114.173 0)
 		(layer "B.SilkS")
 		(uuid "5c57fb95-6479-48ad-9c6d-2a1c80d09ff9")
